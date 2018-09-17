@@ -1,2 +1,2 @@
 # test-JavaScript
-JavaScript
+脚本
